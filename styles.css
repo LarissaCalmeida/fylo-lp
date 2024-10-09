@@ -314,6 +314,11 @@ main .newsletter form input {
   padding: 1rem;
   border-radius: 2rem;
   width: calc(100% - 200px - 1rem);
+  color: gray;
+}
+
+main .newsletter form .error-message {
+  color: hsl(0, 100%, 63%);
 }
 
 footer {
