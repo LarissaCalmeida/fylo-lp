@@ -370,6 +370,18 @@ footer .container div ul.social-media a:hover i {
   color: hsl(176, 68%, 64%);
 }
 
+footer .attribution {
+  text-align: center;
+
+  font-family: "Raleway";
+  margin-top: 2rem;
+}
+
+footer .attribution a {
+  color: hsl(176, 68%, 64%);
+  font-weight: 700;
+}
+
 @media screen and (max-width: 830px) {
   main .testimonials .container {
     flex-direction: column;
